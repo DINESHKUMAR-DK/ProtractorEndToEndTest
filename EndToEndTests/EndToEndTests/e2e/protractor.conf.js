@@ -22,8 +22,8 @@ exports.config = {
   //},
   capabilities: {
     'browserName': 'chrome',
-    //'platform': 'ANY',
-    //'version': '11'
+    'platform': 'ANY',
+    'version': '88'
     //'ignoreProtectedModeSettings': true,
     //chromeOptions: {
     //  args: ["--headless", "--disable-gpu", "--window-size=1280x1024"]
